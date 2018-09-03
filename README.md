@@ -1,3 +1,3 @@
 # hello-world
 Noob
-How embarrasing
+How embarrassing
